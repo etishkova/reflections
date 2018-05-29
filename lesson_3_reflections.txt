@@ -4,3 +4,9 @@ Not sure why you even need to use remote instead of local.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Sounds like automatic pull is not a good idea, because it doesn't allow you to control what changes are pulled and when. It's better 
 To pull manually, so you update you local files when you are ready
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a copy of the repository in the Github, this copy a sits own master branch and is like another repository. Any changes to it don't affect original repository and cannot be pushed there
+Clone is a copy of repository as well, but it's purpose is to make changes to the original repository when they pushed. It is a copy from GitHub to local machine mainly
+Branch is a special copy of the repository, which has a label, called branch name. There can be many of those within one repo and they can be merged together and pushed. These changes will affect the repository.
