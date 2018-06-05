@@ -14,3 +14,6 @@ Branch is a special copy of the repository, which has a label, called branch nam
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: The benefit is that you are able to track what changes were made by other team members while you were making yours. This will also give you opportunity to 
 Compare changes and merge if necessary
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: We would think about alternatives, e.g. Google Docs or most likely we would pair. It would be extremely hard to collaborate though. 
