@@ -17,3 +17,6 @@ Compare changes and merge if necessary
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: We would think about alternatives, e.g. Google Docs or most likely we would pair. It would be extremely hard to collaborate though. 
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: You would make changes on particular branch instead of master when you are working on specific feature and first may want to complete that feature before it would become active. Good about this approach is that it can be tested and reviewed properly before being merged. 
